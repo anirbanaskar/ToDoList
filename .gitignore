@@ -1,6 +1,6 @@
 #Owned Files
 .DS_Store
-/Secrets/
+/Secrets/*
 
 
 #Default Files for Node from Github
